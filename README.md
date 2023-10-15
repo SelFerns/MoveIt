@@ -1,8 +1,6 @@
 # MoveIt - Packing and Moving Company Website
 
-![MoveIt Logo](box-seam.svg)
-
-MoveIt is a front-end project for a packing and moving company website built using Bootstrap components. This README provides an overview of the project, its features, and instructions on how to set it up.
+This is a front-end project for a packing and moving company website built using Bootstrap components.
 
 ## Table of Contents
 
@@ -26,7 +24,7 @@ MoveIt is a modern and user-friendly website designed for a packing and moving c
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/moveit.git
+   git clone https://github.com/SelFerns/MoveIt.git
    ```
 
 2. Navigate to the project directory:
