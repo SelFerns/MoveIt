@@ -34,15 +34,6 @@ MoveIt is a modern and user-friendly website designed for a packing and moving c
 
 3. Open the project in your preferred code editor or use a simple text editor.
 
-## Usage
-
-To view the website, you can simply open the `index.html` file in your web browser. Here's how you can do it:
-
-1. Right-click on `index.html`.
-2. Select "Open with" and choose your web browser.
-
-You will now be able to interact with the MoveIt website.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
