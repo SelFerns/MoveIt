@@ -8,6 +8,7 @@ This is a front-end project for a packing and moving company website built using
 - [Features](#features)
 - [Installation](#installation)
 - [License](#license)
+- [Images](#images)
 
 ## Project Overview
 
