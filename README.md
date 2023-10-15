@@ -41,3 +41,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ---
 
 **Note:** This project is a front-end template and does not include any backend functionality.
+
+## Images
+
+![SS1](https://github.com/SelFerns/MoveIt/assets/61825831/0c3d7a4e-1a4a-4d49-b95d-4cecfcb27b80)
+
+![SS2](https://github.com/SelFerns/MoveIt/assets/61825831/4834c721-5404-431f-9046-cdf3b7c85bfd)
+
+![SS3](https://github.com/SelFerns/MoveIt/assets/61825831/176f6732-ac01-4f4e-8f49-bd30df0b2855)
